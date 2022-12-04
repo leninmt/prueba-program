@@ -15,4 +15,3 @@ if __name__=="__main__" :
     Persona2 = persona("Alison", 21, "UCE") 
     
     print(Persona1.conversar(Persona2))  
-    
